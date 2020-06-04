@@ -18,8 +18,7 @@ De exhibit in de EXPO heeft, in tegenstelling tot de weergave hier, een interact
 
 Veel plezier met lezen!
 
-Rick Companje
-Kathleen Verdult
+Rick Companje en Kathleen Verdult
 
 <a href="https://hualab.nl/margaretha/chat"><img src="images/screenshot.jpg" width="700"/></a>
 
