@@ -1,1 +1,1 @@
-rsync -av --exclude '.git' --exclude 'upload' --exclude '.DS_Store' . hualab.nl:/home/rick/sites/hualab.nl/margaretha/chat
+rsync -av --exclude '.git' --exclude 'upload' --exclude '.DS_Store' . hualab.nl:/home/rick/sites/hualab.nl/margaretha/whatsappen
