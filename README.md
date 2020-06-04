@@ -21,6 +21,6 @@ Veel plezier met lezen!
 Rick Companje
 Kathleen Verdult
 
-<img src="images/screenshot.jpg" width="100%"/>
+<a href="https://hualab.nl/margaretha/chat"><img src="images/screenshot.jpg" width="700"/></a>
 
 
