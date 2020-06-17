@@ -10,7 +10,7 @@
 
 Het complete transcript van de exhibit 'Whatsappen met Margaretha' uit de EXPO van Het Utrechts Achief.
 
-Bekijk op https://hualab.nl/margaretha/whatsappen het complete WhatsApp transcript/verslag van de exhibit 'Whatsappen met Margaretha' uit de EXPO van Het Utrechts Achief. 
+Bekijk op https://hualab.nl/margaretha het complete WhatsApp transcript/verslag van de exhibit 'Whatsappen met Margaretha' uit de EXPO van Het Utrechts Achief. 
 
 Margaretha Turnor, kasteelvrouwe van Amerongen, vertelt over haar ervaringen tijdens de moeilijke jaren zonder haar man. Haar antwoorden komen rechtstreeks uit haar brieven.
 
@@ -20,6 +20,6 @@ Veel plezier met lezen!
 
 Rick Companje en Kathleen Verdult
 
-<a href="https://hualab.nl/margaretha/whatsappen"><img src="images/screenshot.jpg" width="700"/></a>
+<a href="https://hualab.nl/margaretha"><img src="images/screenshot.jpg" width="700"/></a>
 
 
